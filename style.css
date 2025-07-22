@@ -22,3 +22,6 @@ footer{
 body{
   background-color: #f9f9f9;
 }
+a:hover {
+  color: #1a73e8;
+}
